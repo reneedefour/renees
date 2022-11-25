@@ -20,4 +20,4 @@ Text <sup>superscript</sup>
 
 {{< youtube bRUbZK6WIrk >}}
 
-![Test](/img/digitalprofiles.png)
+![Test](/static/img/digitalprofiles.png)
