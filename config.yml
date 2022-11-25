@@ -1,0 +1,36 @@
+baseURL: ""
+languageCode: en-us
+title: Renee's Workspace
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hi there, I'm Renee."
+    Content: Welcome to my public workspace.
+
+  cover:
+    linkFullImages: false
+  ShowBreadCrumbs: true 
+
+  ShowReadingTime: false
+
+  ShowShareButtons: false
+
+  ShowToc: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 30
