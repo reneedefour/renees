@@ -20,4 +20,4 @@ Text <sup>superscript</sup>
 
 {{< youtube bRUbZK6WIrk >}}
 
-![Notion profile dashboard](img/digitalprofiles.JPG)
+![Notion profile dashboard](/digitalprofiles.JPG)
