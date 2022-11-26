@@ -37,9 +37,9 @@ menu:
       weight: 30
     - identifier: library
       name: Library
-      url: /library
+      url: /library/
       weight: 40
     - identifier: timeline
       name: Timeline
-      url: /timeline
+      url: /timeline/
       weight: 50
