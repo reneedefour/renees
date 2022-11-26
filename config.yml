@@ -35,7 +35,11 @@ menu:
       name: Archive
       url: /archive/
       weight: 30
-    - identifier: now
-      name: Now
-      url: /now
+    - identifier: library
+      name: Library
+      url: /library
       weight: 40
+    - identifier: timeline
+      name: Timeline
+      url: /timeline
+      weight: 50
