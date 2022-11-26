@@ -5,7 +5,7 @@ draft: false
 tags: ["book notes"]
 categories: ["library"]
 cover:
-    image: library/library.png
+    image: now/library/library.png
 ---
 
 # Currently reading
@@ -22,7 +22,7 @@ cover:
 
 # Next up 
 
-![Next up list](/library/nextuplist.png)
+![Next up list](/now/library/nextuplist.png)
 
 1. The Burnout Society / Byung-Chul Han
 2. The Paliative Society / Byung-Chul Han
