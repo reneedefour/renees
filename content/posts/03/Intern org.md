@@ -9,17 +9,17 @@ categories: ["medicine"]
 ## Keep a written worklist
 The worklist contains everything that needs to be done for your patients as well as basic demographic information. It is updated daily on ward rounds and is useful to ensure that no task is forgotten. Here is a sample of the worklist that I used:
 
-![intern list](/posts/int_org/internorg1.png)
+![intern list](/posts/03/internorg1.png)
 
 ## Keep separate chase lists
 
 The chase list is a compilation of all outstanding patient labs. Based on the average amount of patients that your team has on a daily basis, it may be easier to have separate chase lists as shown here:
 
-![microb chase](/posts/int_org/microbchase.png)
+![microb chase](/posts/03/microbchase.png)
 
-![radio chase](/posts/int_org/radiochase.png)
+![radio chase](/posts/03/radiochase.png)
 
-![histo chase](/posts/int_org/histochase.png)
+![histo chase](/posts/03/histochase.png)
 
 ## Clipboard & folder
 
