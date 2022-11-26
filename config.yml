@@ -7,9 +7,8 @@ params:
   homeInfoParams:
     Title: "Hi there, welcome to my public workspace."
     Content: This is a space for me to explore my interests. 
-    You'll find writing, musings and workflows spanning digital workspaces, systems, organization, philosophy, creativity and life in general. **Explore** 
-
-
+    You'll find writing, musings and workflows spanning digital workspaces, systems, organization, philosophy, creativity and life in general.
+    Explore  
 
   cover:
     linkFullImages: false
@@ -46,9 +45,9 @@ menu:
       name: Timeline
       url: /timeline/
       weight: 50
-    - identifier: search
-      name: Search
-      url: /search/
+    - identifier: explore
+      name: Explore
+      url: /explore/
       weight: 60
 
 params:
