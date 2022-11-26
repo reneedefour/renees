@@ -6,5 +6,5 @@ tags: ["organization"]
 categories: ["medicine"]
 ---
 
-Keep a written worklist
+## Keep a written worklist
 The worklist contains everything that needs to be done for your patients as well as basic demographic information. It is updated daily on ward rounds and is useful to ensure that no task is forgotten. Here is a sample of the worklist that I used:
