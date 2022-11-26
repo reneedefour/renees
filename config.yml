@@ -6,7 +6,9 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Hi there, welcome to my public workspace."
-    Content: This is a space for me to explore my interests. You'll find writing, musings and workflows spanning digital workspaces, systems, organization, philosophy, creativity and life in general.
+    Content: This is a space for me to explore my interests. 
+    You'll find writing, musings and workflows spanning digital workspaces, systems, organization, philosophy, creativity and life in general.
+
 
   cover:
     linkFullImages: false
@@ -43,3 +45,11 @@ menu:
       name: Timeline
       url: /timeline/
       weight: 50
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
+
+params:
+  # for enhanced SEO
+  env: production
