@@ -45,7 +45,3 @@ menu:
       name: Explore
       url: /explore/
       weight: 50
-
-params:
-  # for enhanced SEO
-  env: production
