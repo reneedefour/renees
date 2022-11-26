@@ -1,6 +1,6 @@
 ---
 title: "🔎 Explore"
-description: "A collection of cool links"
+description: "A collection of intriguing links"
 url: "/explore/"
 summary: explore
 ---
