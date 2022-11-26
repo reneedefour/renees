@@ -43,7 +43,3 @@ menu:
       name: Timeline
       url: /timeline/
       weight: 50
-    - identifier: test
-      name: Test
-      url: /test/
-      weight: 60

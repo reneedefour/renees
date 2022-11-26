@@ -5,8 +5,6 @@ url: "/timeline/"
 summary: timeline
 ---
 
-A little timeline of what I've been up to.
-
 ## November 2022
 Working as a junior doctor in primary care here in Trinidad. My interest has shifted from family medicine to histopathology and I'm trying to get a placement in that department. I've also begun studying for the PLAB licensing exam to be able to specialise in pathology via the UK.
 
