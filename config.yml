@@ -37,5 +37,5 @@ menu:
       weight: 30
     - identifier: now
       name: Now
-      url: /now/
+      url: /now
       weight: 40
