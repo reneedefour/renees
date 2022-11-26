@@ -8,7 +8,6 @@ cover:
     image: posts/14/14-digitalgarden.png
 ---
 
-### Why build and share a digital garden?
 Digital gardening options are becoming more prominent. Maybe that’s because I recently discovered this whole ecosystem but just yesterday (07/11/22), I came across a [tool](https://flowershow.app/blog/alpha-release) on Twitter that allows you to self-publish your markdown digital garden. That’s pretty cool.
 
 ### Why build it?
@@ -17,7 +16,7 @@ Because it’s fun. If you got here in the first place, these topics interest yo
 ### Why share?
 We all have private notes. Not everything needs to be shared. The notes that you do share end up being windows into your mind and thinking. Readers of your public notes can learn about your interests and perspective while being able to provide feedback. It’s also a great way to get better at writing. Public notes aren’t pristine articles but they have the potential to be the starting point of an essay or even a book.
 
-### Workspace Wednesday Videos on Digital Gardening
+### My Workspace Wednesday Videos on Digital Gardening
 
 {{< youtube VugoTdOZomY >}}
 
