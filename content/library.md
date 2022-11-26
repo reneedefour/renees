@@ -6,7 +6,7 @@ draft: false
 tags: ["book notes"]
 categories: ["library"]
 cover:
-    image: img/library.png
+    image: "img/library.png"
 ---
 
 # Currently reading
