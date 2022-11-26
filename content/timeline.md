@@ -1,5 +1,6 @@
 ---
 title: "⏳ Timeline"
+description: "A little timeline of what I've been up to."
 url: "/timeline/"
 summary: timeline
 ---
