@@ -1,10 +1,7 @@
 ---
 title: "📚 Full Library"
 url: "/library/"
-date: 2022-11-26T20:14:51-04:00
-draft: false
-tags: ["book notes"]
-categories: ["library"]
+summary: test
 cover:
     image: "img/library.png"
 ---
