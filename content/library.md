@@ -6,7 +6,7 @@ cover:
     image: "img/library.png"
 ---
 
-# Currently reading
+## Currently reading
 *Updated: 26 Nov 2022*
 
 - The Burnout Society / Byung-Chul Han, Erik Butler
@@ -14,11 +14,11 @@ cover:
 - The Archer / Paulo Coelho
 - The Clothing of Books / Jhumpa Lahiri
 
-# On hold
+## On hold
 - At the Existentialist Cafe / Sarah Bakewell
 - The Seven Ages of Death: A Forensic Pathologist’s Journey Through Life / Dr. Richard Shepherd
 
-# Next up 
+## Next up 
 
 ![Next up list](/img/nextuplist.png)
 
@@ -28,20 +28,20 @@ cover:
 4. The Scent of Time / Byung-Chul Han
 5. Kindfulness / Ajahn Brahm
 
-# Next-next up
+## Next-next up
 1. Under the Whisphering Door / T.J Klune
 2. The Sublime Object of Ideology / Slavoj Zizek
 3. Circe / Madeline Miller
 4. The Midnight Library / Matt Haig
 5. When We Were Birds / Ayanna Lloyd Banwo
 
-# Key
+## Key
 
 ⭐️ - favorite, will re-read
 
-# Years
+## Years
 
-## 2022
+### 2022
 1. A Little Life / Hanya Yanagihara
 2. Deep Work / Cal Newport
 3. The House in the Cerulean Sea / T.J Klune ⭐️
@@ -52,10 +52,10 @@ cover:
 8. Normal People / Sally Rooney
 9. How to Take Smart Notes / Dr. Sönke Ahrens
 
-## 2021
+### 2021
 Apparently I read nothing in 2021?! Very concerning…
 
-## 2020
+### 2020
 1. Wayward Son / Rainbow Rowell
 2. Manage Your Day-to-Day / Jocelyn Glei
 3. Discipline Equals Freedom / Jocko Willink
@@ -67,7 +67,7 @@ Apparently I read nothing in 2021?! Very concerning…
 9. The Great Alone / Kristin Hannah ⭐️
 10. Unnatural Causes / Dr. Richard Shepherd
 
-## 2019
+### 2019
 1. Carry On / Rainbow Rowell ⭐️
 2. 10 Minutes 38 Seconds in This Strange World / Elif Shafak
 3. Convenience Store Woman / Sayaka Murata
@@ -75,7 +75,7 @@ Apparently I read nothing in 2021?! Very concerning…
 5. Vaster Than Sky, Greater Than Space / Mooji
 6. The Four Agreements / Miguel Ruiz
 
-## 2018
+### 2018
 1. Muse of Nightmares / Laini Taylor ⭐️
 2. Fantastic Beasts and Where to Find Them / J.K. Rowling
 3. Strange the Dreamer / Laini Taylor ⭐️
@@ -84,7 +84,7 @@ Apparently I read nothing in 2021?! Very concerning…
 6. Written in the Stars / Aisha Saeed
 7. I Am Not Your Negro
 
-## 2017
+### 2017
 1. Call Me by Your Name / André Aciman
 2. Waking up: A Guide to Spirituality Without Religion / Sam Harris
 3. Zen and the Art of Happiness / Chris Prentiss ⭐️
@@ -92,7 +92,7 @@ Apparently I read nothing in 2021?! Very concerning…
 5. Aristotle and Dante Discover the Secrets of the Universe / Benjamin Alire Sáenz
 6. Simon vs. the Homo Sapiens Agenda / Becky Albertalli
 
-## 2016
+### 2016
 1. Big Magic / Elizabeth Gilbert ⭐️
 2. The Alchemist / Paulo Coelho
 3. When Breath Becomes Air / Dr. Paul Kalanithi
@@ -105,23 +105,23 @@ Apparently I read nothing in 2021?! Very concerning…
 10. Walk Like a Buddha / Lodro Rinzler
 11. The Good Luck of Right Now / Matthew Quick
 
-## 2015
+### 2015
 1. Falling / Christopher Pike
 2. Living Buddha, Living Christ / Thich Nhat Hanh
 
-## 2014
+### 2014
 1. To Die For / Christopher Pike
 2. Chain Letter / Christopher Pike
 3. Sati / Christopher Pike
 
-## 2013
+### 2013
 1. The Power of Now / Eckhart Tolle
 2. A New Earth / Eckhart Tolle
 3. The Prophet / Kahlil Gibran
 4. Siddhartha / Herman Hesse
 5. Thirst No. 5: The Sacred Veil / Christopher Pike ⭐️
 
-## 2011
+### 2011
 1. Remember Me / Christopher Pike ⭐️
 2. Thirst No. 1: The Last Vampire, Black Blood and Red Dice / Christopher Pike ⭐️
 3. Thirst No. 2: Phantom, Evil Thirst and Creatures of Forever / Christopher Pike ⭐️
