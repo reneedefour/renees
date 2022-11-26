@@ -22,7 +22,7 @@ The main drawback for me with this book centered around the repetitive writing s
 
 Decide what makes you happy and then convert your money into the experiences you choose. The goal is to maximize fulfillment across your life span. Your money represents life energy. Life energy is all the hours that you’re alive to do things — and whenever you work, you spend some of that finite life energy.The goal isn’t to maximize wealth but rather to maximize your life experiences.
 
-![Die with zero](/static/img/die-with-zero/diewithzero.png)
+![Die with zero](/posts/die-with-zero/diewithzero.png)
 
 ### Time Bucket Planner Notion Template
 
@@ -30,4 +30,4 @@ I created this simple template in Notion for me to easily input the life experie
 
 Adding life experiences to the time bucket planner Notion template.
 
-![Time bucket planner](/static/img/time-bucket-planner.gif)
+![Time bucket planner](/posts/die-with-zero/time-bucket-planner.gif)
