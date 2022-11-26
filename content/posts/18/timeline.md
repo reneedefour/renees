@@ -1,8 +1,9 @@
 ---
-title: "⏳ Timeline"
-description: "A little timeline of what I've been up to"
-url: "/timeline/"
-summary: timeline
+title: "Timeline"
+date: 2022-11-26T20:14:51-04:00
+draft: false
+tags: ["life"]
+categories: ["personal"]
 ---
 
 ## November 2022

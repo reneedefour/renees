@@ -1,7 +1,7 @@
 ---
 title: "📚 Full Library"
 url: "/library/"
-summary: test
+summary: library
 cover:
     image: "img/library.png"
 ---
