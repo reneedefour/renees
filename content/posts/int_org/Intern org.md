@@ -1,6 +1,6 @@
 ---
 title: "How to Stay Organized During your Medical Internship"
-date: 2020-06-20T20:14:51-04:00
+date: 2020-06-19T20:14:51-04:00
 draft: false
 tags: ["organization"]
 categories: ["medicine"]
