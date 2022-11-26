@@ -4,6 +4,8 @@ date: 2022-03-18T20:14:51-04:00
 draft: false
 tags: ["organization", "personal finances"]
 categories: ["digital workspace"]
+cover:
+    image: posts/10/10-transactions.png
 ---
 
 ## Why I track my finances manually
