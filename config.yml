@@ -10,6 +10,7 @@ params:
 
   cover:
     linkFullImages: false
+
   ShowBreadCrumbs: true 
 
   ShowReadingTime: false
@@ -18,7 +19,7 @@ params:
 
   ShowToc: true
 
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
 
 menu:
   main:
